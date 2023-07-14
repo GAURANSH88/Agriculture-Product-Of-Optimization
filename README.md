@@ -14,7 +14,9 @@ SKILLS:-Python
         Visualisation
 
 
-Libraries used:-NumPy:-For Data Analysis
+Libraries used:-
+
+NumPy:-For Data Analysis
 
              
 Pandas:-For Data Frame Management
