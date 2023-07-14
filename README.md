@@ -13,11 +13,22 @@ SKILLS:-Python
 
 
 Libraries used:-NumPy:-For Data Analysis
-                Pandas:-For Data Frame Management
-                SeaBorn:-For Visualisation
-                Matplotlib:-For Visualisation
-                IpyWidgets:-To interact with Python Programming
-                Sklearn:-To interact with Complex Machine Learning Algorithm
+
+             
+Pandas:-For Data Frame Management
+
+              
+SeaBorn:-For Visualisation
+                
+                
+Matplotlib:-For Visualisation
+               
+                
+IpyWidgets:-To interact with Python Programming
+               
+                
+Sklearn:-To interact with Complex Machine Learning Algorithm
+
 
 Data is being collected from Kaggle and stored in a Data.csv file.
 
